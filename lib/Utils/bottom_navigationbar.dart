@@ -3,10 +3,10 @@ import 'package:gymapp/Screens/MemberDashboard/member_dashboard_screen.dart';
 import '../Screens/Home/members_list_page.dart';
 import 'package:gymapp/Theme/appcolor.dart';
 
-import '../screens/collection_screen.dart';
-import '../screens/Dashboard/dashboard_screen.dart';
+import '../Screens/collection_screen.dart';
+import '../Screens/Dashboard/dashboard_screen.dart';
 
-import '../screens/Report/report_screen.dart';
+import '../Screens/Report/report_screen.dart';
 
 
 class MyNavigationBar extends StatefulWidget {
