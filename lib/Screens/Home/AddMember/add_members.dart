@@ -6,7 +6,7 @@ import 'package:gymapp/Utils/custom_snack_bar.dart';
 import 'package:gymapp/main.dart';
 import 'dart:io';
 import 'package:supabase_flutter/supabase_flutter.dart';
-import 'package:gymapp/utils/member_form_utils.dart';
+import 'package:gymapp/Utils/member_form_utils.dart';
 import 'model/member_model.dart';
 import 'widgets/emergency_contact_page.dart';
 import 'widgets/employment_payment_page.dart';
